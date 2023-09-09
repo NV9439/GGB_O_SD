@@ -51,10 +51,10 @@
       "number":5,
       "route":"DATE",
       "front":1,
-      "frontid1":"rbxassetid://14384285048",
-      "controllerid1":"rbxassetid://14481515647",
+      "frontid1":"rbxassetid://14723508102",
+      "controllerid1":"rbxassetid://14723611569",
       "side":1,
-      "sideid1":"rbxassetid://14384285048"
+      "sideid1":"rbxassetid://14723508102"
    },
    {
       "number":6,
@@ -508,5 +508,14 @@
       "controllerid1":"rbxassetid://14489913282",
       "side":1,
       "sideid1":"rbxassetid://14298047287"
+   },
+   {
+      "number":50,
+      "route":"RBIS",
+      "front":1,
+      "frontid1":"rbxassetid://14723448622",
+      "controllerid1":"rbxassetid://14723445319",
+      "side":1,
+      "sideid1":"rbxassetid://14723448622"
    }
 ]
