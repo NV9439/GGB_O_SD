@@ -4,9 +4,9 @@
       "route":"GGB",
       "front":2,
       "frontid1":"rbxassetid://14297882111",
-      "frontid2":"rbxassetid://15820016276",
+      "frontid2":"rbxassetid://14297882111",
       "controllerid1":"rbxassetid://14480479038",
-      "controllerid2":"rbxassetid://15820034152",
+      "controllerid2":"rbxassetid://14480479038",
       "side":2,
       "sideid1":"rbxassetid://14297882111",
       "sideid2":"rbxassetid://14297882111"
@@ -522,9 +522,9 @@
       "number":51,
       "route":"ALB",
       "front":1,
-      "frontid1":"rbxassetid://15503286849",
+      "frontid1":"rbxassetid://16498633235",
       "controllerid1":"rbxassetid://15503281611",
       "side":1,
-      "sideid1":"rbxassetid://15503286849"
+      "sideid1":"rbxassetid://16498633235"
    }
 ]
