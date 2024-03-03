@@ -521,10 +521,19 @@
    {
       "number":51,
       "route":"ALB",
-      "front":1,
+      "front":4,
       "frontid1":"rbxassetid://16498721323",
+      "frontid2":"rbxassetid://16605283082",
+      "frontid3":"rbxassetid://16605288354",
+      "frontid4":"rbxassetid://16605291540",
       "controllerid1":"rbxassetid://16498669750",
-      "side":1,
-      "sideid1":"rbxassetid://16498721323"
+      "controllerid2":"rbxassetid://16605246091",
+      "controllerid3":"rbxassetid://16605259324",
+      "controllerid4":"rbxassetid://16605269079",
+      "side":4,
+      "sideid1":"rbxassetid://16498721323",
+      "sideid2":"rbxassetid://16605283082",
+      "sideid3":"rbxassetid://16605288354",
+      "sideid4":"rbxassetid://16605291540"
    }
 ]
