@@ -535,5 +535,15 @@
       "sideid2":"rbxassetid://16605283082",
       "sideid3":"rbxassetid://16605288354",
       "sideid4":"rbxassetid://16605291540"
+   },
+   {
+      "number":52,
+      "route":"886",
+      "front":1,
+      "frontid1":"rbxassetid://17052951754",
+      "controllerid1":"rbxassetid://17052956905",
+      "side":1,
+      "sideid1":"rbxassetid://17052951754"
    }
+]
 ]
