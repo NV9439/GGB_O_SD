@@ -38,11 +38,14 @@
    {
       "number":4,
       "route":"DTP",
-      "front":1,
-      "frontid1":"rbxassetid://14297938788",
-      "controllerid1":"rbxassetid://14482396065",
-      "side":1,
-      "sideid1":"rbxassetid://14297938788"
+      "front":2,
+      "frontid1":"rbxassetid://17394539778",
+      "frontid2":"rbxassetid://17394563320",
+      "controllerid1":"rbxassetid://17394576856",
+      "controllerid2":"rbxassetid://17394578306",
+      "side":2,
+      "sideid1":"rbxassetid://17394539778",
+      "sideid2":"rbxassetid://17394563320"
    },
       {
       "number":5,
